@@ -24,10 +24,7 @@ To set up this project locally, follow the instructions below:
     cd AIDataScience-AnimalRecognition
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 Once the dependencies are installed, use the following commands to start the application:
