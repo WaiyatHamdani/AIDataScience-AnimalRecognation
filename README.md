@@ -2,26 +2,14 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Installation](#installation)
 - [Features](#features)
 - [Technologies](#technologies)
 - [File Structure](#file-structure)
+- [Installation](#installation)
 
 ## Project Description
 This project aims to use **AI and Data Science** for recognizing and classifying different animals. The system implements machine learning models to detect, classify, and analyze animals from images.
 
-## Installation
-To set up this project locally, follow the instructions below:
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/AIDataScience-AnimalRecognition.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd AIDataScience-AnimalRecognition
-    ```
 
 ## Features
 - **Animal Detection**: Detect animals from images or video files.
@@ -56,6 +44,18 @@ AIDataScience-AnimalRecognition/
 
 
 
+## Installation
+To set up this project locally, follow the instructions below:
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/your-username/AIDataScience-AnimalRecognition.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd AIDataScience-AnimalRecognition
+    ```
 
 ![image](https://github.com/user-attachments/assets/d7423899-54d1-47a7-b14b-1b067514fb1b)
 ![image](https://github.com/user-attachments/assets/ad80a117-2ad7-44b7-9b9a-7e34b90caee8)
