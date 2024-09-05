@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [File Structure](#file-structure)
-- [License](#license)
 
 ## Project Description
 This project aims to use **AI and Data Science** for recognizing and classifying different animals. The system implements machine learning models to detect, classify, and analyze animals from images or videos.
@@ -82,9 +81,6 @@ AIDataScience-AnimalRecognition/
 3. Commit your changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
