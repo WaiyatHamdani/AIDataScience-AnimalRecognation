@@ -56,7 +56,17 @@ To set up this project locally, follow the instructions below:
     ```bash
     cd AIDataScience-AnimalRecognition
     ```
-
+3. pip installation to get started
+   ```bash
+     pip install numpy
+    pip install pandas
+    pip install scikit-learn
+    pip install tensorflow
+    pip install matplotlib
+    pip install opencv-python
+    pip install keras
+    pip install jupyterlab
+   ```
 ![image](https://github.com/user-attachments/assets/d7423899-54d1-47a7-b14b-1b067514fb1b)
 ![image](https://github.com/user-attachments/assets/ad80a117-2ad7-44b7-9b9a-7e34b90caee8)
 ![image](https://github.com/user-attachments/assets/a2a1dde4-e5a4-4830-b794-cda94f37df77)
