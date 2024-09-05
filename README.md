@@ -3,13 +3,12 @@
 ## Table of Contents
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [Technologies](#technologies)
 - [File Structure](#file-structure)
 
 ## Project Description
-This project aims to use **AI and Data Science** for recognizing and classifying different animals. The system implements machine learning models to detect, classify, and analyze animals from images or videos.
+This project aims to use **AI and Data Science** for recognizing and classifying different animals. The system implements machine learning models to detect, classify, and analyze animals from images.
 
 ## Installation
 To set up this project locally, follow the instructions below:
@@ -23,23 +22,6 @@ To set up this project locally, follow the instructions below:
     ```bash
     cd AIDataScience-AnimalRecognition
     ```
-
-
-
-## Usage
-Once the dependencies are installed, use the following commands to start the application:
-
-1. Run the application:
-    ```bash
-    python main.py
-    ```
-
-2. Use with input images:
-    ```bash
-    python main.py --input your-animal-image.jpg
-    ```
-
-3. If using pre-trained models, make sure to place them in the `models/` directory before running the program.
 
 ## Features
 - **Animal Detection**: Detect animals from images or video files.
@@ -72,12 +54,6 @@ AIDataScience-AnimalRecognition/
 └── README.md                  # Project documentation
 ```
 
-## Pull request
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 
 
